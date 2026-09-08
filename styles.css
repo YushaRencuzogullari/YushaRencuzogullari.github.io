@@ -196,6 +196,21 @@ h2 {
 
 /* CSS for resume page*/
 
+#resume-sections {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 1000px;
+  border: 2px solid #363636;
+  border-radius: 12px;
+  background-color: white;
+}
+
+#resume-sections .section h2,
+#resume-sections .section h3,
+#resume-sections .section p {
+  margin-left: 20px;
+}
+
 #download {
   display: block;
   text-align: center;
@@ -205,6 +220,7 @@ h2 {
   border-radius: 12px;
   width: 160px;
   margin: 0 auto;
+  background-color: white;
 }
 
 #download:hover {
