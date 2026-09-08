@@ -183,6 +183,10 @@ input[type="submit"] {
   background-color: transparent;
 }
 
+input[type="submit"]:hover {
+  background-color: #8f8f8f;
+}
+
 /* CSS for headers */
 h1,
 h2 {
