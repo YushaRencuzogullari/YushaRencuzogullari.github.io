@@ -229,5 +229,7 @@ h2 {
 
 /* CSS for home page */
 
-title {
+.page-title {
+  font-size: 48px;
+  font-weight: bolder;
 }
