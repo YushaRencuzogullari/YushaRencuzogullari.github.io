@@ -232,3 +232,16 @@ h2 {
 .page-title {
   font-size: 48px;
 }
+
+#my-image {
+  display: flex;
+  margin: 0 auto;
+  width: 500px;
+  height: auto;
+}
+
+.about-text {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 24px;
+}
