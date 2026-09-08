@@ -8,6 +8,7 @@ body {
   min-height: 100vh;
   padding: 0;
   margin: 0;
+  font-family: "Times New Roman", Times, serif;
 }
 
 main {
@@ -191,7 +192,6 @@ input[type="submit"]:hover {
 h1,
 h2 {
   text-align: center;
-  font-family: Garamond, serif;
 }
 
 /* CSS for resume page*/
@@ -225,4 +225,9 @@ h2 {
 
 #download:hover {
   background-color: #8f8f8f;
+}
+
+/* CSS for home page */
+
+title {
 }
