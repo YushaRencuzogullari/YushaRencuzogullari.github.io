@@ -3,7 +3,6 @@ html {
 }
 
 body {
-  background-color: #d7c7ff;
   position: relative;
   min-height: 100vh;
   padding: 0;
@@ -17,6 +16,27 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+/* CSS for background colors */
+.index {
+  background-color: #d7c7ff;
+}
+
+.blog {
+  background-color: #fff8c7;
+}
+
+.portfolio {
+  background-color: #c7f1ff;
+}
+
+.resume {
+  background-color: #ffc7c7;
+}
+
+.contact {
+  background-color: #c7ffca;
 }
 
 /* CSS for navigation bar */
