@@ -145,13 +145,42 @@ main {
 
 /* CSS for contact form */
 
-label {
-  display: block;
+form {
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
 }
 
-form {
-  width: 500px;
-  margin: 0 auto;
+form label {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  font-size: 16px;
+  border-radius: 12px;
+  border: 2px solid #363636;
+}
+
+input[type="text"],
+input[type="email"] {
+  height: 8%;
+}
+
+textarea {
+  height: 100%;
+  resize: none;
+}
+
+input[type="submit"] {
+  border: 2px solid #363636;
+  border-radius: 12px;
+  font-size: 16px;
+  padding: 20px;
+  background-color: transparent;
 }
 
 /* CSS for headers */
