@@ -285,7 +285,7 @@ h2 {
   background-color: white;
 }
 
-.project-info {
+.project-details {
   flex: 1;
 }
 
@@ -295,7 +295,7 @@ h2 {
   margin-bottom: 20px;
 }
 
-.project-details {
+.project-description {
   text-align: center;
 }
 
