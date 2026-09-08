@@ -189,3 +189,20 @@ h2 {
   text-align: center;
   font-family: Garamond, serif;
 }
+
+/* CSS for resume page*/
+
+#download {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  border: 2px solid #363636;
+  border-radius: 12px;
+  width: 160px;
+  margin: 0 auto;
+}
+
+#download:hover {
+  background-color: #8f8f8f;
+}
