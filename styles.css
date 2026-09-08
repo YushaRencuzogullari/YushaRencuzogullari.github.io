@@ -92,28 +92,6 @@ main {
   height: 2.5rem;
 }
 
-.nav-list {
-  display: flex;
-  flex-direction: row;
-  position: relative;
-  right: 30px;
-  list-style: no.navbarne;
-}
-
-/* CSS for page footer */
-
-.footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: black;
-  color: white;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 2.5rem;
-}
-
 /* CSS for contact form */
 
 form {
@@ -159,6 +137,7 @@ input[type="submit"]:hover {
 }
 
 /* CSS for headers */
+
 h1,
 h2 {
   text-align: center;
